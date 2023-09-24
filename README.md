@@ -1,2 +1,5 @@
 # but_info
-mon code source de but informatique 
+Mon code source de **BUT** informatique
+
+Dans cet espace je vais stocker mon code réalisé durant ma formation de BUT Informatique.
+
